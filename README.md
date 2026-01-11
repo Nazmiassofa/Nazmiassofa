@@ -10,20 +10,6 @@
 - 🧠 Always curious, always learning — whether it's building bots, APIs, or wrangling servers
 - 🛠️ Sometimes I break things, but I fix them better 😉
 
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmiassofa&show_icons=true&theme=radical" alt="nazmiassofa stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmiassofa&theme=radical" alt="nazmiassofa streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmiassofa&layout=compact&theme=radical" alt="Top Langs" />
-</div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
