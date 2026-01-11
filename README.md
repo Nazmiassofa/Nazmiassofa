@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazmiassofa</h1>
-<h3 align="center">I Love Automation</h3>
+<h3 align="center">Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nazmiassofa&label=Profile%20views&color=0e75b6&style=flat" alt="nazmiassofa" />
