@@ -9,14 +9,7 @@
 - 🚀 I love automating stuff and solving IT challenges from small bugs to system-level issues
 - 🧠 Always curious, always learning — whether it's building bots, APIs, or wrangling servers
 - 🛠️ Sometimes I break things, but I fix them better 😉
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazmiassofa&theme=algolia&row=1&margin-w=15&no-frame=true" />
-</p>
-
----
+>
 
 _“Simple is better than complex, but I can handle both.”_
 
